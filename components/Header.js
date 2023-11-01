@@ -28,7 +28,7 @@ const Header = ({ isShow }) => {
           <img
             className="logo"
             onClick={() => router.push("/")}
-            src="https://postimg.cc/R35JY4Fy/logo.png"
+            src="https://i.postimg.cc/q7gcz7dJ/video-sphere-private-project-original-logo.jpg"
             alt="VIDEO SPHERE (ВИДЕО СФЕРА)"
           />
         </motion.div>
